@@ -1,0 +1,1 @@
+# iagd.centralized.registry
